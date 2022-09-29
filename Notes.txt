@@ -1,0 +1,219 @@
+Blockchain (a distributed database) - Satoshi Nakamoto (presumed pseudonym for a person or group of people) published a white paper on 
+“BitCoin: A peer-to-peer electronic cash system” in 2008.:
+	Blockchain is the technology that covers digital currency (like Bitcoin, Ethereum, etc.). This technology allows digital information to be 
+	distributed and decentralized, but can’t be manipulated (immutable). That means each piece of data can only have one owner but many holders 
+	of the same data.
+	
+	The distributed ledger (bahi-khata) technology used in blockchain.
+	
+	Blockchain cannot process transactions faster because it doesn’t use a centralized infrastructure and also because it uses encryption. 
+	The distributed nature of blockchain provides a huge level of trust. The unchangeable property of blockchain and its public availability 
+	among its users, whether in a public ledger or a private one, provides transparency. Any user of the system can query transactions on a 
+	real-time basis. 
+	
+	In short, by adopting Blockchain people across the world can say goodbye to the middleman, and dependence on banks, legal agencies, and hackers.
+	
+	The blockchain is a distributed database of records of all transactions or digital event that have been executed and shared among participating 
+	parties. Each transaction verified by the majority of participants of the system. It contains every single record of each transaction.
+	
+	Blockchain Technology Records Transaction in Digital Ledger which is distributed over the Network thus making it incorruptible (tampering not possible).
+	
+What is inside a blockchain?
+	A blockchain is a chain of blocks connected to each other.
+	A block contains data, timestamp, cryptographic hash, cryptographic hash of the data of the previous block (first block which does not store 
+	the prev hash is known as genesis block).
+
+Features/Need/Advantage for/of Blockchain:
+	Trustless: High degree of trust in business transactions - Blockchain highly restricts fraud and there is no need to trust a third party now 
+			   as the records are stored in distributed ledgers.
+	Immutability: It means that it is extremely hard to change the data and any change can be easily detected.
+	Distributed: The distributed ledger is shared and updated with every incoming transaction among the nodes connected to the Blockchain. All 
+				 this is done in real-time as there is no central server controlling the data.
+	Transparent: Because every node or participant in Blockchain has a copy of the Blockchain data, they have access to all transaction data. 
+				 They themselves can verify the identities without the need for mediators.
+	Flexible: Smart Contracts which are executed based on certain conditions can be written into the platform. Blockchain Network can evolve 
+			  in pace with business processes.
+	Consensus-based: All relevant network participants must agree that a transaction is valid. This is achieved through the use of consensus 
+					 algorithms.
+	Tighter security: No one can temper with Blockchain Data as it shared among millions of Participant. The system is safe against cybercrimes 
+					  and Fraud.
+					  Whereas, In current transaction system, if the Central Server like Banks is compromised, whole System is affected 
+					  including the participants.
+	Time-saving: No central Authority verification needed for settlements making the process faster and cheaper.
+	Cost-saving: A Blockchain network reduces expenses in several ways. No need for third-party verification. Participants can share assets 
+				 directly. Intermediaries are reduced. Transaction efforts are minimized as every participant has a copy of shared ledger.
+	Decentralized: The blockchain network is decentralized which means that there is no central governing authority that will responsible for all 
+				   the decisions. Rather a group of nodes makes and maintain the network. Each and every node in the blockchain network has the 
+				   same copy of the ledger.
+	Secure: All the records in the blockchain are individually encrypted. Using encryption adds another layer of security to the entire process 
+			on the blockchain network. Every information on the blockchain is hashed cryptographically which means that every piece of data has a 
+			unique identity on the network. All the blocks contain a unique hash of their own and the hash of the previous block. Due to this property,
+			the blocks are cryptographically linked with each other. Any attempt to modify the data means to change all the hash IDs which is quite 
+			impossible.
+
+Uses of Blockchain Technology:
+	Financial Services (Banking/Payments/Asset Management): secure payment facilities for a particular transaction, as it removes third-person dependency.
+	Real-estate (Property records): transactions are expensive and lots of paperwork is required. Remove the middleman, more secure & transparent process.
+	Legal Fields: Blockchain uses smart contracts to validate the ownership of the documents.
+	Personal Identification
+	Birth, wedding, and death certificates
+	Passports
+	Blockchain Healthcare: Health care providers can leverage blockchain to securely store their patients’ medical records.
+	Crypto-currency: Bitcoin is one application of the blockchain technology.
+	E-Voting
+	Copyright and Royalties: Copyright and royalties are a big issue in creative sectors like music, films, etc.
+	To make an immutable data backup.
+	
+Consensus rule/mechanism - For adding data need approval with majority
+	Consensus is basically a set of protocols that regulate the blockchain network.
+	There are several consensus mechanisms that are used by different blockchains to achieve consensus. For example, Bitcoin uses Proof-of-Work (PoW).
+
+Peer to Peer Network –  A peer to peer network is a distributed application architecture that consists of computing devices connected to each other, 
+						without a central server. 
+
+	In centralised networks, the security is dependent on a single entity. If that central server is attacked, the security of 
+	the overall network is compromised. But a peer to peer network is more secure as there is no single point of failure.
+						
+Smart Contracts (or cryptocontract) – Forget smart contract and blockchain for a moment. Think about contracts in general. These contain some 
+									  conditions which need to be fulfilled in order for some transaction (eg; money exchange) to occur. For example, 
+									  if you are selling me a laptop, a contract will contain that I will be responsible to pay you only if the 
+									  laptop works properly. Similarly, smart contracts are pre-requisite conditions which need to be fulfilled for 
+									  transactions to happen in a blockchain.
+									  
+	A Smart Contract (or cryptocontract) is a computer program that directly and automatically controls the transfer of digital assets 
+	between the parties under certain conditions. A smart contract works in the same way as a traditional contract while also automatically
+	enforcing the contract. Smart contracts are programs written in solidity (language)that execute exactly as they are set 
+	up(coded, programmed) by their creators. Just like a traditional contract is enforceable by law, smart contracts are enforceable by 
+	code. 
+	
+	It is basically a digital contract for a blockchain network.
+	  
+	Difficult to implement: 
+		Smart contracts are also complicated to implement because it’s still a relatively new concept and research is still going on 
+		to understand the smart contract and its implications fully.
+	  
+	Example Use cases:  
+		Smart contracts provide utility to other contracts. For example, consider a smart contract that transfers funds to party A after 
+		10 days. After 10 days, the above-mentioned smart contract will execute another smart contract which checks if the required funds 
+		are available at the source account(let’s say party B).
+		
+		They facilitate the implementation of ‘multi-signature’ accounts, in which the assets are transferred only when a certain 
+		percentage of people agree to do so.
+		
+		Smart contracts can map legal obligations into an automated process.
+		
+	Applications of Smart Contracts
+		Real Estate: Reduce money paid to the middleman and distribute between the parties actually involved. For example, a smart 
+		contract to transfer ownership of an apartment once a certain amount of resources have been transferred to the seller’s 
+		account(or wallet).
+		
+		Vehicle ownership: A smart contract can be deployed in a blockchain that keeps track of vehicle maintenance and ownership. 
+		The smart contract can, for example, enforce vehicle maintenance service every six months; failure of which will lead to 
+		suspension of driving license.
+		
+		Music Industry: The music industry could record the ownership of music in a blockchain. A smart contract can be embedded 
+		in the blockchain and royalties can be credited to the owner’s account when the song is used for commercial purposes. 
+		It can also work in resolving ownership disputes.
+		
+	Features/Need of Smart Contracts:
+		The following are some essential characteristics of a smart contract (apart from that mentioned in the Blockchain):
+			Deterministic: Smart contracts can only perform functions for which they are designed only when the required conditions 
+						   are met. The final outcome will not vary, no matter who executes the smart contract.
+			Self-verifying: These are self-verifying due to automated possibilities.
+			Self-enforcing: These are self-enforcing when the conditions and rules are met at all stages.
+			
+	Capabilities of Smart Contracts:
+		Accuracy
+		Automation: Smart contracts can automate the tasks/ processes that are done manually.
+		Speed
+		Backup: Every node in the blockchain maintains the shared ledger, providing probably the best backup facility.
+		Security
+		Savings (Time/Money)
+		Manages information: Smart contract manages users’ agreement, and stores information about an application like domain registration, 
+							 membership records, etc.
+		Multi-signature accounts: Smart contracts support multi-signature accounts to distribute funds as soon as all the parties involved 
+								  confirm the agreement.
+								  
+What is Blockchain Wallet?								  
+	A blockchain wallet is a cryptocurrency wallet that is used to manage cryptocurrencies like Bitcoin and Ethereum.
+
+What is the difference between Ethereum and Bitcoin?
+	Bitcoin is a cryptocurrency. Ethereum is also a cryptocurrency but it contains executable codes and smart contract that are used for making DApps.
+
+What are some different types of Blockchain?
+	There are 4 types of blockchain:
+	Public (Permissionless) Blockchain: A public blockchain is an open network where anyone can join the network and make transactions. Example- 
+										Bitcoin, Ethereum, Litecoin.
+	Private (Permissioned) Blockchain: A private blockchain is permissioned blockchain that enforces some restrictions on users. It does not allow 
+									   everyone to join the network. Also, the ledger is visible to only permissioned users of the organization. 
+									   Example- Hyperledger, Multichain.
+	Consortium Blockchain: It is like a private or permissioned blockchain where instead of a single organization, more than one organization 
+						   governs the network. Example- Quorum, Corda.
+	Hybrid Blockchain: It is a combination of both public and private blockchain. It provides control as well as freedom by using features of 
+					   both types of blockchain. Example- Dragonchain.
+					   
+					   
+What is a Decentralized Apps (dApp) and how it is different from Smart Contract?
+	DApps are used to interact with a blockchain network or smart contract. It is a decentralized application that is used to implement a 
+	particular task or feature using blockchain technology.
+	
+	Decentralized applications or dApps are distributed, decentralized open-source software applications that run on a decentralized 
+	peer-to-peer (P2P) network. Imagine the Twitter application that you have on your phone. You can post anything you want on Twitter but 
+	ultimately it’s controlled by a single company that can delete your tweets if they violate community guidelines or some other reason. 
+	But if there was a Twitter-type dApp, then it would be decentralized and not owned by any one person. If you posted something there, 
+	nobody would be able to delete it including its creators.
+	
+	Most Common Platforms For Creating dApps: Ethereum (one of them)
+	
+	Smart contracts define rules for the transaction to be done between two peers. They self execute when the specified condition is met.
+	
+How blocks are added to a Blockchain?
+	Blocks are added to the blockchain through the process of mining. When a transaction is made, the corresponding block is created which 
+	needs to be first validated by more than half (51% at least) of the nodes on the network. Once validated, the block is broadcasted to 
+	the whole network and then added to the blockchain.
+					   
+What is the difference between a Blockchain and a database?
+	decentralized - centralized
+	no central authority - admin
+	slow - fast data processing
+	More secure and tamperproof	- Less secure and prone to hacks
+
+What are the components of a blockchain architecture?
+	Node: User/computer within the blockchain architecture.
+	Transaction: It is the smallest building block of the blockchain system.
+	Block: It is used for maintaining a set of transactions that are distributed to all the nodes in the network.
+	Chain: The sequence of blocks.
+	Miners: Specific nodes that perform a block verification process before adding to the blockchain structure.
+	Consensus Protocol: Set of rules to carry out blockchain operations.
+	
+What is a 51% attack?
+	It is the situation where malicious miners/ attackers are present in the majority of a blockchain network i.e., more than 50%. 
+	They try to prevent new transactions from gaining confirmations and are also capable of reversing transactions that are completed
+
+Double Spend – 
+	An act of using the same digital asset (cryptocurrency) twice. Its a common type of attack in blockchains. This type 
+	of attack becomes more difficult with increasing members that add the new block to the chain.
+	
+Disadvantages  using blockchain :
+	Data modification is not possible. 
+	It requires large storage for a large database. 
+	The owner cannot access the private key again if they forget or lose it.
+	Police/Government cannot track, no one can track, terrorism, illegal activity
+	
+Satoshi – The smallest recordable unit of currency in the Bitcoin. Currently, a satoshi is numerically equal to 0.00000001 BTC.
+
+Name some leading open source platforms for developing Blockchain applications.
+	Ethereum is one of the popular platforms for building Blockchain-based applications
+	
+List down some of the extensively used cryptographic algorithms.
+	Cryptography uses public and private keys in order to encrypt and decrypt data. In the Blockchain network, 
+	a public key can be shared with all the Bitcoin users but a private key (just like a password) is kept secret with the users.
+	
+	Here are a few popular algorithms:
+	SHA - 256
+	RSA (Rivest-Shamir-Adleman)
+	Triple DES
+	
+Crypto (Bitcoin) Mining - Bitcoin Mining is the process of verifying bitcoin transactions and storing them in a blockchain(ledger).
+NFT - Non-Fungible Token
+WEB3 - decentralized internet
