@@ -214,6 +214,29 @@ List down some of the extensively used cryptographic algorithms.
 	RSA (Rivest-Shamir-Adleman)
 	Triple DES
 	
+	Symmetric Key Encryption
+	vs.
+	Asymmetric Key Encryption
+
+	It only requires a single key for both encryption and decryption.
+	vs.
+	It requires two keys, a public key and a private key, one to encrypt and the other one to decrypt.
+
+	The size of cipher text is the same or smaller than the original plain text.
+	vs.
+	The size of cipher text is the same or larger than the original plain text.
+
+	Security is less as only one key is used for both encryption and decryption purpose.
+	vs.	
+	It is more secure as two keys are used here- one for encryption and the other for decryption.
+
+	Examples: 3DES, AES, DES
+	vs.
+	Examples: Diffie-Hellman, DSA and RSA
+
+
+BigchainDB: An open source blockchain database. BigchainDB allows for the deployment of large-scale applications in a variety of use cases.
+
 Crypto (Bitcoin) Mining - Bitcoin Mining is the process of verifying bitcoin transactions and storing them in a blockchain(ledger).
 NFT - Non-Fungible Token
 WEB3 - decentralized internet
